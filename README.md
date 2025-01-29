@@ -18,18 +18,20 @@
 2. Perform PCA to 10 components. So now we have train and test images in 10 dimension instead of 28X28 dimension.
    
 3. Now apply the following models:
-   
-  • Decision Trees
-  • Random forest
-  • Naive Bayes Model
-  • K-NN Classifier
-  • SVM
 
-4. For each of this method produce the following metrics:
+   * Decision Trees
+   * Random Forest
+   * Naive Bayes Model
+   * K-NN Classifier
    
-  • Precision, Recall, F1 - Score
-  • Confusion Matrix
-  • RoC - AUC curve
+  
 
-6. Try to repeat the same experiment for different component size : 15,20,25,30
+5. For each of this method produce the following metrics:
+
+    * Precision,Recall and F1 - Score
+    * Confusion Matrix
+    * Roc - AUC Curve   
+  
+
+7. Try to repeat the same experiment for different component size : 15,20,25,30
 
