@@ -19,17 +19,17 @@
    
 3. Now apply the following models:
    
-• Decision Trees
-• Random forest
-• Naive Bayes Model
-• K-NN Classifier
-• SVM
+  • Decision Trees
+  • Random forest
+  • Naive Bayes Model
+  • K-NN Classifier
+  • SVM
 
 4. For each of this method produce the following metrics:
    
-• Precision, Recall, F1 - Score
-• Confusion Matrix
-• RoC - AUC curve
+  • Precision, Recall, F1 - Score
+  • Confusion Matrix
+  • RoC - AUC curve
 
 6. Try to repeat the same experiment for different component size : 15,20,25,30
 
